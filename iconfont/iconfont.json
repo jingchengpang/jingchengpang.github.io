@@ -6,6 +6,20 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "14343887",
+      "name": "zhihu",
+      "font_class": "zhihu1",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "19445922",
+      "name": "知乎",
+      "font_class": "zhihu-square-fill",
+      "unicode": "ea8b",
+      "unicode_decimal": 60043
+    },
+    {
       "icon_id": "1244207",
       "name": "知乎",
       "font_class": "zhihu",
