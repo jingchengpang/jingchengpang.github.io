@@ -325,3 +325,17 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
+
+@font-face {
+  font-family: 'iconfont';
+  src: url('../../iconfont/iconfont.woff2?t=1697138019860') format('woff2'),
+       url('../../iconfont/iconfont.woff?t=1697138019860') format('woff'),
+       url('../../iconfont/iconfont.ttf?t=1697138019860') format('truetype');
+}
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

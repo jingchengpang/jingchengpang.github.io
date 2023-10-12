@@ -3,7 +3,7 @@
 {% if page.author and site.data.authors[page.author] %}
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
-
+<link rel="stylesheet" href="//at.alicdn.com/t/c/font_4284616_ovp0ziwqyen.css">
 <div itemscope itemtype="http://schema.org/Person">
 
   <div class="author__avatar">
@@ -117,7 +117,7 @@
       {% endif %}
       {% if author.zhihu %}
         <li>
-          <a href = "{{ author.zhihu }}"> <i class="fa-brands fa-zhihu"></i> Zhihu </a>
+          <a href = "{{ author.zhihu }}"> <span class="iconfont">&#xe69a;</span> Zhihu (知乎) </a>
         </li>
       {% endif %}
       {% if author.wikipedia %}
