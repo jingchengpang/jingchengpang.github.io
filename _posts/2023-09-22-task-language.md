@@ -19,7 +19,19 @@ Natural language-conditioned reinforcement learning (RL) enables agents to follo
 
 Method
 ======
+Overall framework of TALAR. There are three parts in the figure. 
+(a) Overall training process: The Task Language (TL) generator develops TL
+via playing a referential game with a receiver, and the translator translates natural language (NL) to TL. 
+(b) Network architecture of the TL generator. 
+(c) Network architecture of the translator. The number of predicate
+arguments and networks can be adjusted according to the task scale.
+
 <img src="/images/posts/task_language/framework.png" style="display: block; margin: auto;" />
+
+
+Main results
+======
+<img src="/images/posts/task_language/main_results.png" style="display: block; margin: auto;" />
 
 
 
