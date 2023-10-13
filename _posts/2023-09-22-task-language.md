@@ -26,6 +26,9 @@ Method
 Performance
 ======
 
+The following video presents the performance of different agents under a same instruction: Can you
+ open the microwave door for me? The baseline method is one-hot. TALAR agent behaves more flexibly and quickly.
+
 <table>
   <tr>
     <td>
