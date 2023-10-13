@@ -15,7 +15,7 @@ author_profile: true
 
 ------
 <h1>Preprints</h1>
-{% for post in site.publications %}
+{% for post in site.publications reversed %}
   {% if post.pubtype == 'preprint' %}
       {% include archive-single.html %}
   {% endif %}
@@ -24,7 +24,7 @@ author_profile: true
 ------
 
 <h1>Conference Papers</h1>
-{% for post in site.publications %}
+{% for post in site.publications reversed %}
   {% if post.pubtype == 'conference' %}
       {% include archive-single.html %}
   {% endif %}
@@ -33,7 +33,7 @@ author_profile: true
 ------
 
 <h1>Journal Papers</h1>
-{% for post in site.publications %}
+{% for post in site.publications reversed %}
   {% if post.pubtype == 'journal' %}
       {% include archive-single.html %}
   {% endif %}
