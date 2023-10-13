@@ -1,7 +1,7 @@
 ---
 title: "Regret Minimization Experience Replay in Off-Policy Reinforcement Learning"
 collection: publications
-permalink: /publication/neurips21_regret
+permalink: /publication/2021-neurips-regret
 date: 2021-09-01
 venue: 'NeurIPS 2021'
 pubtype: 'conference'
