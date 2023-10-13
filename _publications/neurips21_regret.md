@@ -1,9 +1,9 @@
 ---
-title: "Offline imitation learning with a misspecified simulator"
+title: "Regret Minimization Experience Replay in Off-Policy Reinforcement Learning"
 collection: publications
-permalink: /publication/neurips20_hidil
+permalink: /publication/neurips21_regret
 date: 2021-09-01
-paperurl: 'https://proceedings.neurips.cc/paper/2020/file/60cb558c40e4f18479664069d9642d5a-Paper.pdf'
-link: 'https://proceedings.neurips.cc/paper/2020/file/60cb558c40e4f18479664069d9642d5a-Paper.pdf'
-citation: 'Offline imitation learning with a misspecified simulator. Shengyi Jiang, Jing-Cheng Pang and Yang Yu, In: NeurIPS'20.'
+paperurl: 'https://arxiv.org/pdf/2105.07253.pdf'
+link: 'https://arxiv.org/pdf/2105.07253.pdf'
+citation: 'Regret Minimization Experience Replay in Off-Policy Reinforcement Learning. Xu-Hui Liu*, Zhenghai Xue*, Jing-Cheng Pang, Shengyi Jiang, Feng Xu and Yang Yu, In: NeurIPS'21.'
 ---
