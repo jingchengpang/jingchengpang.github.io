@@ -11,30 +11,31 @@ author_profile: true
 
 {% include base_path %}
 
-<h2>Preprints</h2>
+<h1>Preprints</h1>
 {% for post in site.publications %}
   {% if post.pubtype == 'preprint' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
+------
 
-<h2>Conference Papers</h2>
+<h1>Conference Papers</h1>
 {% for post in site.publications %}
   {% if post.pubtype == 'conference' %}
       {% include archive-single.html %}
-  {% else %}
-        Not equal to conference
   {% endif %}
 {% endfor %}
 
+------
 
-<h2>Journal Papers</h2>
+<h1>Journal Papers</h1>
 {% for post in site.publications %}
   {% if post.pubtype == 'journal' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
+------
 
 <sup>*</sup> Equal authorship
