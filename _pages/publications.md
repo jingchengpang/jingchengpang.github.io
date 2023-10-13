@@ -19,7 +19,6 @@ author_profile: true
 {% endfor %}
 
 
-
 <h2>Conference Papers</h2>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'conference' %}
@@ -28,7 +27,7 @@ author_profile: true
 {% endfor %}
 
 
-<h2>Journal Articles</h2>
+<h2>Journal Papers</h2>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'journal' %}
       {% include archive-single.html %}
