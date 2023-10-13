@@ -1,7 +1,7 @@
 ---
 title: "Offline imitation learning with a misspecified simulator"
 collection: publications
-permalink: /publications/neurips20_hidil
+permalink: /publication/neurips20_hidil
 date: 2020-09-01
 venue: 'NeurIPS 2020'
 pubtype: 'conference'
