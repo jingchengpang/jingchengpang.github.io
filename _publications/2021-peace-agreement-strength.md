@@ -3,6 +3,7 @@ title: "A Latent Variable Approach to Measuring and Explaining Peace Agreement S
 collection: publications
 permalink: /publication/2021-peace-agreement-strength
 date: 2021-01-27
+pubtype: 'conference'
 venue: 'Political Science Research and Methods'
 paperurl: '/files/pdf/research/Agreement Strength.pdf'
 link: 'https://doi.org/10.1017/psrm.2019.23'
