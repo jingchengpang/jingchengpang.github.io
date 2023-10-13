@@ -25,5 +25,16 @@ Method
 
 Performance
 ======
-![TALAR](/images/posts/task_language/ours_microwave.gif) | ![Baseline](/images/posts/task_language/baseline_microwave.gif)
---- | ---
+
+<table>
+  <tr>
+    <td>
+      <img src="/images/posts/task_language/baseline_microwave.gif" alt="Image 1" style="width: 100%;" />
+      <figcaption style="text-align: center;">Baseline</figcaption>
+    </td>
+    <td>
+      <img src="/images/posts/task_language/ours_microwave.gif" alt="Image 2" style="width: 100%;" />
+      <figcaption style="text-align: center;">TALAR</figcaption>
+    </td>
+  </tr>
+</table>
