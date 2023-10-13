@@ -23,6 +23,8 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'conference' %}
       {% include archive-single.html %}
+  {% else %}
+        Not equal to conference
   {% endif %}
 {% endfor %}
 
