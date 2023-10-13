@@ -19,11 +19,11 @@ Natural language-conditioned reinforcement learning (RL) enables agents to follo
 
 Method
 ======
-<img src="../images/posts/task_language/framework.png" style="display: block; margin: auto;" />
+<img src="/images/posts/task_language/framework.png" style="display: block; margin: auto;" />
 
 
 
 Performance
 ======
-![TALAR](../images/posts/task_language/ours_microwave.gif) | ![Baseline](../images/posts/task_language/baseline_microwave.gif)
+![TALAR](/images/posts/task_language/ours_microwave.gif) | ![Baseline](/images/posts/task_language/baseline_microwave.gif)
 --- | ---
