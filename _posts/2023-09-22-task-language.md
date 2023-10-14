@@ -9,7 +9,7 @@ tags:
 ---
 
 This blog introduces [our work](https://arxiv.org/abs/2302.09368) that will appear in NeurIPS 2023. 
-We focus on 
+We focus on using natural language to instruct a robot to complete tasks and propose a practical algorithm.
 
 Abstract
 ======
