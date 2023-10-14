@@ -44,13 +44,13 @@ The following video presents the performance of different agents under a same in
 <table>
   <tr>
     <td>
-<video id="video" controls="" preload="none">
+<video id="video" controls="" preload="none" width='100%'>
 <source id="mp4" src="/images/posts/task_language/baseline_micro.mp4" type="video/mp4">
 </video>      
 <figcaption style="text-align: center;">Baseline</figcaption>
     </td>
     <td>
-<video id="video" controls="" preload="none">
+<video id="video" controls="" preload="none" width='100%'>
 <source id="mp4" src="/images/posts/task_language/ours_micro.mp4" type="video/mp4">
 </video>   
       <figcaption style="text-align: center;">TALAR</figcaption>
