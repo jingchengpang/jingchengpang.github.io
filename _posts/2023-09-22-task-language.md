@@ -9,7 +9,7 @@ tags:
 ---
 
 This blog introduces [our work](https://arxiv.org/abs/2302.09368) that will appear in NeurIPS 2023. 
-
+We focus on 
 
 Abstract
 ======
@@ -19,7 +19,7 @@ Natural language-conditioned reinforcement learning (RL) enables agents to follo
 
 Method
 ======
-Overall framework of TALAR. There are three parts in the figure. 
+The following figure depicts the overall framework of TALAR. There are three parts in the figure. 
 (a) Overall training process: The Task Language (TL) generator develops TL
 via playing a referential game with a receiver, and the translator translates natural language (NL) to TL. 
 (b) Network architecture of the TL generator. 
@@ -44,11 +44,15 @@ The following video presents the performance of different agents under a same in
 <table>
   <tr>
     <td>
-      <img src="/images/posts/task_language/baseline_microwave.gif" alt="Image 1" style="width: 100%;" />
-      <figcaption style="text-align: center;">Baseline</figcaption>
+<video id="video" controls="" preload="none">
+<source id="mp4" src="/images/posts/task_language/baseline_micro.mp4" type="video/mp4">
+</video>      
+<figcaption style="text-align: center;">Baseline</figcaption>
     </td>
     <td>
-      <img src="/images/posts/task_language/ours_microwave.gif" alt="Image 2" style="width: 100%;" />
+<video id="video" controls="" preload="none">
+<source id="mp4" src="/images/posts/task_language/ours_micro.mp4" type="video/mp4">
+</video>   
       <figcaption style="text-align: center;">TALAR</figcaption>
     </td>
   </tr>
