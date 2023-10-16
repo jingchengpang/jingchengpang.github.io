@@ -41,4 +41,4 @@ author_profile: true
 
 ------
 
-<sup>*</sup> Equal authorship
+<sup>*</sup> Equal contribution
