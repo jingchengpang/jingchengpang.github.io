@@ -57,10 +57,9 @@
       <!-- citation and icon code -->
       <p>
       {% if post.citation %}
-<!--        <div class="list-item"> {{ post.citation }} </div>-->
-        • {{ post.citation }}
+
+        <b>•</b> {{ post.citation }}
       {% endif %}
-<!--      <br>-->
       {% if post.link %}
         <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
       {% endif %}
