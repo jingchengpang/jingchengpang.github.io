@@ -1,5 +1,5 @@
 ---
-title: "Natural Language Instruction-following with Task-related Language Development and Translation"
+title: "ICLR'24 Papers About Autonomous Agent"
 date: 2023-10-18
 permalink: /posts/2023/10/iclr24-agent-paper
 tags:
