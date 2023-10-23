@@ -8,9 +8,10 @@ tags:
   - LLM
 ---
 
-This is a collection of recent papers submitted to ICLR'24, which are focusing on building autonomous agent. Here is how Wikipedia defines <i>Agent</i>:
+This is a collection of recent papers submitted to ICLR'24, which are focusing on building autonomous agent. 
 These papers have been integrated to this [github repo](https://github.com/lafmdp/Awesome-Papers-Autonomous-Agent), which is in active maintainance. Feel free to star/follow the repo.
 
+Here is how Wikipedia defines <i>Agent</i>:
 
 > In artificial intelligence, an intelligent agent is an agent acting in an intelligent manner; It perceives its environment, takes actions autonomously in order to achieve goals, and may improve its performance with learning or acquiring knowledge. An intelligent agent may be simple or complex: A thermostator other control systemis considered an example of an intelligent agent, as is a human being, as is any system that meets the definition, such as a firm, a state, or a biome.
 
