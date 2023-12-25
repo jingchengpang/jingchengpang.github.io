@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 ## Services
-Serve as reviewer for UAI 2021, NeurIPS 2023, ICLR 2024, TETCI
+Serve as reviewer for UAI 2021, NeurIPS 2023 ([Top reviewer award](https://nips.cc/Conferences/2023/ProgramCommittee)), ICLR 2024, ICML 2024 TETCI
 
 ## Academic discussions
 1. From Nov 2021: Studuent committee member of <a href="http://rlchina.org/">RLChina</a>

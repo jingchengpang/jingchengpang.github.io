@@ -7,7 +7,8 @@ author_profile: true
 ---
 
 <ul>
-    <li>Merit Scholarship for Ph.D. at Nanjing University, {2021, 2023}</li>
+    <li>Model Outstanding Graduate Student of Nanjing University, 2023</li>
+    <li>Merit Scholarship for Ph.D. student at Nanjing University, {2021, 2023}</li>
     <li>Outstanding Graduate Student of Nanjing University, {2019,2020,2021,2022} </li>
     <li>2nd place of KDD cup (RL track), 2020</li>
     <li>Scholarship of Nanjing AI Industry Rejuvenation Plan (supported by Nanjing EDTZ), 2019</li>

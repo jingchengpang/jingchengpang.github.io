@@ -20,3 +20,11 @@ Greetings! I am currently a third-year Ph.D. student at [Nanjing University](htt
 
 My primary research interests lie in the field of reinforcement learning (RL). I am particularly focused on language-based agents, real-world applications, robotic execution, and improving the efficiency of RL algorithms. Free free to contact/follow me if you are interested in my work. 
 
+
+------
+## Recent News
+
+- 2023.11: Selected as [**Top Reviewer**](https://nips.cc/Conferences/2023/ProgramCommittee) of NeurIPS 2023 🎉
+- 2023.09: One paper is accepted by NeurIPS 2023 🚀
+- 2023.09: One paper is accepted by Frontiers of Computer Science (FCS, CCF-B) 🎉
+- 2023.06: One paper is accepted by IROS 2023 👏
