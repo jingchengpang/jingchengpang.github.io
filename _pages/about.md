@@ -24,7 +24,7 @@ My primary research interests lie in the field of reinforcement learning (RL). I
 ------
 ## Recent News
 
-- 2023.11: Selected as [**Top Reviewer (8%)**](https://nips.cc/Conferences/2023/ProgramCommittee) of NeurIPS 2023 🎉
+- 2023.11: Awarded as [**Top Reviewer (8%)**](https://nips.cc/Conferences/2023/ProgramCommittee) of NeurIPS 2023 🎉
 - 2023.09: One paper is accepted by NeurIPS 2023 🚀
 - 2023.09: One paper is accepted by Frontiers of Computer Science (FCS, CCF-B) 🎉
 - 2023.06: One paper is accepted by IROS 2023 👏
