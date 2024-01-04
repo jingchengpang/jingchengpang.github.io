@@ -8,7 +8,7 @@ author_profile: true
 
 ## Academic Services
 
-### Reviewer:
+### Reviewer & PC Member
 - ICML 2024
 - ICLR 2024
 - NeurIPS 2023 ([Top 8% reviewer award](https://nips.cc/Conferences/2023/ProgramCommittee))
