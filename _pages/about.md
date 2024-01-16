@@ -24,15 +24,16 @@ My primary research interests lie in the field of reinforcement learning (RL). I
 
 
 <ul>
-<li><strong><a href="https://github.com/lafmdp/Awesome-Papers-Autonomous-Agent" target="_blank">Awesome-Papers-Autonomous-Agent</a></strong>&nbsp;&nbsp;<img style="height:1em" alt="GitHub stars" src="https://img.shields.io/github/stars/lafmdp/Awesome-Papers-Autonomous-Agent?style=social" />
-<br />
-A collection of recent papers on building autonomous agent. Two topics included: RL-based / LLM-based agents.
-</li>
+    <li><strong><a href="https://github.com/lafmdp/Awesome-Papers-Autonomous-Agent" target="_blank">Awesome-Papers-Autonomous-Agent</a></strong>&nbsp;&nbsp;<img style="height:1em" alt="GitHub stars" src="https://img.shields.io/github/stars/lafmdp/Awesome-Papers-Autonomous-Agent?style=social" />
+    <br />
+    A collection of recent papers on building autonomous agent. Two topics included: RL-based / LLM-based agents.
+    </li>
 </ul>
 
 
 ## Recent News
 
+- 2024.01: One paper is accepted by ICLR 2024 🚀
 - 2023.11: Awarded as [**Top Reviewer (8%)**](https://nips.cc/Conferences/2023/ProgramCommittee) of NeurIPS 2023 🎉
 - 2023.09: One paper is accepted by NeurIPS 2023 🚀
 - 2023.09: One paper is accepted by Frontiers of Computer Science (FCS, CCF-B) 🎉
