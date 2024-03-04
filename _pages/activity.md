@@ -16,10 +16,14 @@ author_profile: true
 - TETCI
 
 ### Research Discussions
-1. From Nov 2021: Studuent committee member of <a href="http://rlchina.org/">RLChina</a>
-2. 2022.1, 2022.6, 2023.2, 2023.6, 2023.10: Host [research discussions](http://rlchina.org/topic/301) at [RLChina](http://rlchina.org/) Forum
+- From Nov 2021: Studuent committee member of <a href="http://rlchina.org/">RLChina</a>
+- 2022.1, 2022.6, 2023.2, 2023.6, 2023.10: Host [research discussions](http://rlchina.org/topic/301) at [RLChina](http://rlchina.org/) Forum
 
 
+## Talks
+- Presentation about TALAR (NeurIPS 2023) on reinforcement learning seminar [[slides](/files/slides/rl_seminar.pdf)]
+- Oral presentation at IROS 2023 [[slides](/files/slides/IROS2023.pdf)]
+- Roundtable forum at Harix GDC 2022
 
 ## Teaching assistant
 
