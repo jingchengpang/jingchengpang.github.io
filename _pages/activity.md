@@ -21,10 +21,10 @@ author_profile: true
 
 
 ## Talks
-- Introducing LaMAI on The 80th RLChina Paper Seminar [[slides](/files/slides/rlchina_lamai.pdf)]
-- Presentation about TALAR (NeurIPS 2023) on reinforcement learning seminar [[slides](/files/slides/rl_seminar.pdf)]
-- Oral presentation at IROS 2023 [[slides](/files/slides/IROS2023.pdf)]
-- Roundtable forum at Harix GDC 2022
+- Empowering Language Models with Active Inquiry for Deeper Understanding, at The 80th RLChina Paper Seminar [[slides](/files/slides/rlchina_lamai.pdf)]
+- Presentation about TALAR (NeurIPS 2023), at Reinforcement Learning Seminar [[slides](/files/slides/rl_seminar.pdf)]
+- Oral presentation, at IROS 2023 [[slides](/files/slides/IROS2023.pdf)]
+- Roundtable forum discussion about meta universe, at Harix GDC 2022
 
 ## Teaching assistant
 
