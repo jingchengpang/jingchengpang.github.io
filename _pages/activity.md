@@ -17,7 +17,7 @@ author_profile: true
 
 ### Research Discussions
 - From Nov 2021: Studuent committee member of <a href="http://rlchina.org/">RLChina</a>
-- 2022.1, 2022.6, 2023.2, 2023.6, 2023.10: Host [research discussions](http://rlchina.org/topic/301) at [RLChina](http://rlchina.org/) Forum
+- 2022.1, 2022.6, 2023.2, 2023.6, 2023.10: Organize [academic discussions](http://rlchina.org/user/314) at [RLChina](http://rlchina.org/) Forum
 
 
 ## Talks
