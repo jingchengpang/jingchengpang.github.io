@@ -9,11 +9,13 @@ author_profile: true
 ## Academic Services
 
 ### Reviewer & PC Member
+- NeurIPS 2024
 - ICML 2024
 - ICLR 2024
 - NeurIPS 2023 ([Top 8% reviewer award](https://nips.cc/Conferences/2023/ProgramCommittee))
 - UAI 2021
-- TETCI
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+- IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI) 
 
 ### Research Discussions
 - From Nov 2021: Studuent committee member of <a href="http://rlchina.org/">RLChina</a>
