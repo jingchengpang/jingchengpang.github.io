@@ -38,6 +38,5 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-------
 
-<sup>*</sup> Equal contribution
+------
