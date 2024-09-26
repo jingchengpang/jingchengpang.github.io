@@ -39,7 +39,8 @@ Free free to contact/follow me if you are interested in my work.
 
 
 ## Recent News
-- 2024.07: I start my visiting to Prof. [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/)'s team at [RIKEN-AIP](https://www.riken.jp/en/research/labs/aip/), Tokyo, Japan, doing RL and LLM research
+- 2024.09: Our work, [KALM](https://openreview.net/forum?id=tb1MlJCY5g), is accepted by NeurIPS 2024! 
+- 2024.07: I start my visiting to Prof. [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/)'s team at [RIKEN-AIP](https://www.riken.jp/en/research/labs/aip/), Tokyo, Japan, doing RL research
 - 2024.01: One paper gets accepted by ICLR 2024
 - 2023.11: Awarded as [**Top Reviewer (8%)**](https://nips.cc/Conferences/2023/ProgramCommittee) of NeurIPS 2023
 - 2023.09: One paper gets accepted by NeurIPS 2023
