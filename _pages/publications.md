@@ -13,9 +13,9 @@ author_profile: true
 
 
 ------
-<h1>Preprints</h1>
+<h1>Manuscripts</h1>
 {% for post in site.publications reversed %}
-  {% if post.pubtype == 'preprint' %}
+  {% if post.pubtype == 'manuscript' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
@@ -38,5 +38,14 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
+
+------
+
+<h1>Preprints</h1>
+{% for post in site.publications reversed %}
+  {% if post.pubtype == 'preprint' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
 
 ------
