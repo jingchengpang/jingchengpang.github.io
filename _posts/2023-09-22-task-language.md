@@ -1,5 +1,5 @@
 ---
-title: "Natural Language Instruction-following with Task-related Language Development and Translation"
+title: "NeurIPS 2023 | Natural Language Instruction-following with Task-related Language Development and Translation"
 date: 2023-09-22
 permalink: /posts/2023/09/task-language
 tags:
