@@ -39,11 +39,12 @@ Free free to contact/follow me if you are interested in my work.
 
 
 ## Recent News
+- 2024.12: InCLET is accepted by AAMAS 2025 as a full paper. We will give an oral presentation at Detriot!
 - 2024.09: Our work, [KALM](https://openreview.net/forum?id=tb1MlJCY5g), is accepted by NeurIPS 2024! 
 - 2024.07: I start my visiting to Prof. [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/)'s team at [RIKEN-AIP](https://www.riken.jp/en/research/labs/aip/), Tokyo, Japan, doing RL research
-- 2024.01: One paper gets accepted by ICLR 2024
+- 2024.01: [RLC](https://openreview.net/forum?id=38E4yUbrgr) for LLM self-improvement is accepted by ICLR 2024
 - 2023.11: Awarded as [**Top Reviewer (8%)**](https://nips.cc/Conferences/2023/ProgramCommittee) of NeurIPS 2023
-- 2023.09: One paper gets accepted by NeurIPS 2023
-- 2023.09: One paper gets accepted by Frontiers of Computer Science (FCS, CCF-B)
-- 2023.06: One paper gets accepted by IROS 2023
+- 2023.09: [TALAR](https://openreview.net/forum?id=bx0SDRVDzF&noteId=E1F2N1w0DO), for instruction-following agents, gets accepted by NeurIPS 2023
+- 2023.09: [MG](https://link.springer.com/article/10.1007/s11704-023-3150-5), a new paradigm for environment modelling, gets accepted by Frontiers of Computer Science (FCS, CCF-B)
+- 2023.06: [O3F](https://ieeexplore.ieee.org/document/10342335) for complex robotics manipulation gets accepted by IROS 2023
 
