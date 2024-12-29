@@ -14,14 +14,14 @@ redirect_from:
 </div>
 
 
-
 I am a fourth-year Ph.D. student at [Nanjing University](https://www.nju.edu.cn/), advised by Professor [Yang Yu](https://www.wolai.com/eyounx/dtR1MTyRXS5tP5Cex4KtdK). In June 2019, I obtained B.Sc. degree from [UESTC](https://www.uestc.edu.cn/). In September 2019, I joined the [LAMDA](https://www.lamda.nju.edu.cn) group led by Professor [Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/index.htm), as a Master's student, excused from the entrance examination. Since September 2021, I was fortunate to be accepted into the Successive Postgraduate and Doctoral program, starting my current Ph.D. studies.
 Since July 2024, I have been engaged as a visiting student with Prof. [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/)'s team at RIKEN-AIP, Tokyo, Japan.
 
-My research focuses on **_connecting human and intelligent agent with natural language_**. Particularly, my study includes:
+My research focuses on **_connecting human and intelligent agent (RL-based or LLM-based) through natural language instructions (effective instruction parsing)_**.
+Particularly, my study includes:
 
 - Reinforcement Learning: language conditioned RL, optimization algorithm, imitation learning, applications;
-- Large Language Models: training, inference-time optimization, deployment;
+- Large Language Models: training, inference-time optimization, agent;
 - Embodied Robot: home-service robot, sim2real.
 
 Free free to contact/follow me if you are interested in my work. 
