@@ -39,6 +39,7 @@ Free free to contact/follow me if you are interested in my work.
 
 
 ## Recent News
+- 2025.01: Invited talk at HUAWEI NAIE Group. Topic: RL-driven LLM Optimization and Recent Progress [[slides](/files/slides/RL_driven_LLM.pdf)].
 - 2024.12: InCLET is accepted by AAMAS 2025 as a full paper. We will give an oral presentation at Detriot!
 - 2024.09: Our work, [KALM](https://openreview.net/forum?id=tb1MlJCY5g), is accepted by NeurIPS 2024! 
 - 2024.07: I start my visiting to Prof. [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/)'s team at [RIKEN-AIP](https://www.riken.jp/en/research/labs/aip/), Tokyo, Japan, doing RL research
