@@ -39,6 +39,7 @@ Free free to contact/follow me if you are interested in my work.
 
 
 ## Recent News
+- 2025.01: [ReViWo](https://openreview.net/forum?id=vJwjWyt4Ed) for robotics manipulation under viewpoint disturbance, is accepted by ICLR 2025.
 - 2025.01: Invited talk at HUAWEI NAIE Group. Topic: RL-driven LLM Optimization and Recent Progress [[slides](/files/slides/RL_driven_LLM.pdf)].
 - 2024.12: InCLET is accepted by AAMAS 2025 as a full paper. We will give an oral presentation at Detriot!
 - 2024.09: Our work, [KALM](https://openreview.net/forum?id=tb1MlJCY5g), is accepted by NeurIPS 2024! 
@@ -46,6 +47,8 @@ Free free to contact/follow me if you are interested in my work.
 - 2024.01: [RLC](https://openreview.net/forum?id=38E4yUbrgr) for LLM self-improvement is accepted by ICLR 2024
 - 2023.11: Awarded as [**Top Reviewer (8%)**](https://nips.cc/Conferences/2023/ProgramCommittee) of NeurIPS 2023
 - 2023.09: [TALAR](https://openreview.net/forum?id=bx0SDRVDzF&noteId=E1F2N1w0DO), for instruction-following agents, gets accepted by NeurIPS 2023
-- 2023.09: [MG](https://link.springer.com/article/10.1007/s11704-023-3150-5), a new paradigm for environment modelling, gets accepted by Frontiers of Computer Science (FCS, CCF-B)
-- 2023.06: [O3F](https://ieeexplore.ieee.org/document/10342335) for complex robotics manipulation gets accepted by IROS 2023
+
+[//]: # (- 2023.09: [MG]&#40;https://link.springer.com/article/10.1007/s11704-023-3150-5&#41;, a new paradigm for environment modelling, gets accepted by Frontiers of Computer Science &#40;FCS, CCF-B&#41;)
+
+[//]: # (- 2023.06: [O3F]&#40;https://ieeexplore.ieee.org/document/10342335&#41; for complex robotics manipulation gets accepted by IROS 2023)
 
