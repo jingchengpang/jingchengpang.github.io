@@ -15,13 +15,13 @@ redirect_from:
 
 
 I am a fourth-year Ph.D. student at [Nanjing University](https://www.nju.edu.cn/), advised by Professor [Yang Yu](https://www.wolai.com/eyounx/dtR1MTyRXS5tP5Cex4KtdK). In June 2019, I obtained B.Sc. degree from [UESTC](https://www.uestc.edu.cn/). In September 2019, I joined the [LAMDA](https://www.lamda.nju.edu.cn) group led by Professor [Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/index.htm), as a Master's student, excused from the entrance examination. Since September 2021, I was fortunate to be accepted into the Successive Postgraduate and Doctoral program, starting my current Ph.D. studies.
-Since July 2024, I have been engaged as a visiting student with Prof. [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/)'s team at RIKEN-AIP, Tokyo, Japan.
+From July to October in 2024, I engaged as a visiting student with Prof. [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/)'s team at RIKEN-AIP, Tokyo, Japan.
 
 My research focuses on **_connecting human and intelligent agent (RL-based or LLM-based) through natural language instructions (effective instruction parsing)_**.
 Particularly, my study includes:
 
-- Reinforcement Learning: language conditioned RL, optimization algorithm, imitation learning, applications;
-- Large Language Models: training, inference-time optimization, agent;
+- Reinforcement Learning: language-conditioned RL, optimization algorithm, imitation learning, applications;
+- Large Language Models: training, inference-time optimization, intelligent agent;
 - Embodied Robot: home-service robot, sim2real.
 
 Free free to contact/follow me if you are interested in my work. 
@@ -29,7 +29,11 @@ Free free to contact/follow me if you are interested in my work.
 
 ## Selected Publications
 
-
+1. **Jing-Cheng Pang**, Nan Tang, Kaiyuan Li, Yuting Tang, Xin-Qiang Cai, Zhen-Yu Zhang, Gang Niu, Masashi Sugiyama and Yang Yu. Learning View-invariant World Models for Visual Robotic Manipulation. In: *ICLR*, 2025. [[paper](https://openreview.net/forum?id=vJwjWyt4Ed)]
+2. **Jing-Cheng Pang**, Si-Hang Yang, Kaiyuan Li, Jiaji Zhang, Xiong-Hui Chen, Nan Tang and Yang Yu. KALM: Knowledgeable Agents by Offline Reinforcement Learning from Large Language Model Rollouts. In: *NeurIPS*, 2024. [[paper](https://openreview.net/forum?id=tb1MlJCY5g)]
+3. **Jing-Cheng Pang**, Pengyuan Wang, Kaiyuan Li, Xiong-Hui Chen, Jiacheng Xu, Zongzhang Zhang and Yang Yu. Language Model Self-improvement by Reinforcement Learning Contemplation. In: *ICLR*, 2024. [[paper](https://openreview.net/forum?id=38E4yUbrgr)]
+4. **Jing-Cheng Pang**, Xinyu Yang, Si-Hang Yang, Xiong-Hui Chen and Yang Yu. Natural Language Instruction-following with Task-related Language Development and Translation. In: *NeurIPS*, 2023. [[paper](https://openreview.net/forum?id=bx0SDRVDzF))]
+5. Peng-Yuan Wang, **Jing-Cheng Pang**, Chen-Yang Wang, Xu-Hui Liu, Tian-Shuo Liu, Si-Hang Yang, Hong Qian and Yang Yu. InCLET: In-context Learning from Language Models can Improve Embodied Instruction-following. In: *AAMAS* (Oral), 2025. [[paper](https://openreview.net/forum?id=qaI22j5mwJ)]
 
 
 ## Projects
