@@ -26,27 +26,6 @@ Particularly, my study includes:
 
 Free free to contact/follow me if you are interested in my work. 
 
-
-## Selected Publications
-
-1. **Jing-Cheng Pang**, Nan Tang, Kaiyuan Li, Yuting Tang, Xin-Qiang Cai, Zhen-Yu Zhang, Gang Niu, Masashi Sugiyama and Yang Yu. Learning View-invariant World Models for Visual Robotic Manipulation. In: *ICLR*, 2025. [[paper](https://openreview.net/forum?id=vJwjWyt4Ed)]
-2. **Jing-Cheng Pang**, Si-Hang Yang, Kaiyuan Li, Jiaji Zhang, Xiong-Hui Chen, Nan Tang and Yang Yu. KALM: Knowledgeable Agents by Offline Reinforcement Learning from Large Language Model Rollouts. In: *NeurIPS*, 2024. [[paper](https://openreview.net/forum?id=tb1MlJCY5g)]
-3. **Jing-Cheng Pang**, Pengyuan Wang, Kaiyuan Li, Xiong-Hui Chen, Jiacheng Xu, Zongzhang Zhang and Yang Yu. Language Model Self-improvement by Reinforcement Learning Contemplation. In: *ICLR*, 2024. [[paper](https://openreview.net/forum?id=38E4yUbrgr)]
-4. **Jing-Cheng Pang**, Xinyu Yang, Si-Hang Yang, Xiong-Hui Chen and Yang Yu. Natural Language Instruction-following with Task-related Language Development and Translation. In: *NeurIPS*, 2023. [[paper](https://openreview.net/forum?id=bx0SDRVDzF))]
-5. Peng-Yuan Wang, **Jing-Cheng Pang**, Chen-Yang Wang, Xu-Hui Liu, Tian-Shuo Liu, Si-Hang Yang, Hong Qian and Yang Yu. InCLET: In-context Learning from Language Models can Improve Embodied Instruction-following. In: *AAMAS* (Oral), 2025. [[paper](https://openreview.net/forum?id=qaI22j5mwJ)]
-
-
-## Projects
-
-
-<ul>
-    <li><strong><a href="https://github.com/lafmdp/Awesome-Papers-Autonomous-Agent" target="_blank">Awesome-Papers-Autonomous-Agent</a></strong>&nbsp;&nbsp;<img style="height:1em" alt="GitHub stars" src="https://img.shields.io/github/stars/lafmdp/Awesome-Papers-Autonomous-Agent?style=social" />
-    <br />
-    A collection of recent papers on building autonomous agent. Two topics included: RL-based / LLM-based agents.
-    </li>
-</ul>
-
-
 ## Recent News
 - 2025.01: [ReViWo](https://openreview.net/forum?id=vJwjWyt4Ed) for robotics manipulation under viewpoint disturbance, is accepted by ICLR 2025.
 - 2025.01: Invited talk at HUAWEI NAIE Group. Topic: RL-driven LLM Optimization and Recent Progress [[slides](/files/slides/RL_driven_LLM.pdf)].
@@ -57,7 +36,27 @@ Free free to contact/follow me if you are interested in my work.
 - 2023.11: Awarded as [**Top Reviewer (8%)**](https://nips.cc/Conferences/2023/ProgramCommittee) of NeurIPS 2023
 - 2023.09: [TALAR](https://openreview.net/forum?id=bx0SDRVDzF&noteId=E1F2N1w0DO), for instruction-following agents, gets accepted by NeurIPS 2023
 
-[//]: # (- 2023.09: [MG]&#40;https://link.springer.com/article/10.1007/s11704-023-3150-5&#41;, a new paradigm for environment modelling, gets accepted by Frontiers of Computer Science &#40;FCS, CCF-B&#41;)
 
-[//]: # (- 2023.06: [O3F]&#40;https://ieeexplore.ieee.org/document/10342335&#41; for complex robotics manipulation gets accepted by IROS 2023)
+## Selected Publications
+
+1. **Jing-Cheng Pang**, Nan Tang, Kaiyuan Li, Yuting Tang, Xin-Qiang Cai, Zhen-Yu Zhang, Gang Niu, Masashi Sugiyama and Yang Yu. Learning View-invariant World Models for Visual Robotic Manipulation. In: *ICLR*, 2025. [[paper](https://openreview.net/forum?id=vJwjWyt4Ed)]
+2. **Jing-Cheng Pang**, Si-Hang Yang, Kaiyuan Li, Jiaji Zhang, Xiong-Hui Chen, Nan Tang and Yang Yu. KALM: Knowledgeable Agents by Offline Reinforcement Learning from Large Language Model Rollouts. In: *NeurIPS*, 2024. [[paper](https://openreview.net/forum?id=tb1MlJCY5g)]
+3. **Jing-Cheng Pang**, Peng-Yuan Wang, Kaiyuan Li, Xiong-Hui Chen, Jiacheng Xu, Zongzhang Zhang and Yang Yu. Language Model Self-improvement by Reinforcement Learning Contemplation. In: *ICLR*, 2024. [[paper](https://openreview.net/forum?id=38E4yUbrgr)]
+4. **Jing-Cheng Pang**, Xinyu Yang, Si-Hang Yang, Xiong-Hui Chen and Yang Yu. Natural Language Instruction-following with Task-related Language Development and Translation. In: *NeurIPS*, 2023. [[paper](https://openreview.net/forum?id=bx0SDRVDzF)]
+5. **Jing-Cheng Pang**, Tian Xu, Shengyi Jiang, Yu-Ren Liu and Yang Yu. Reinforcement Learning With Sparse-Executing Actions via Sparsity Regularization. *TNNLS*, to appear. [[paper](https://arxiv.org/pdf/2105.08666)]
+6. Peng-Yuan Wang, **Jing-Cheng Pang**, Chen-Yang Wang, Xu-Hui Liu, Tian-Shuo Liu, Si-Hang Yang, Hong Qian and Yang Yu. InCLET: In-context Learning from Language Models can Improve Embodied Instruction-following. In: *AAMAS* (Oral), 2025. [[paper](https://openreview.net/forum?id=qaI22j5mwJ)]
+
+
+[Full publication list](/publications/)
+
+
+## Projects
+
+<ul>
+    <li><strong><a href="https://github.com/lafmdp/Awesome-Papers-Autonomous-Agent" target="_blank">Awesome-Papers-Autonomous-Agent</a></strong>&nbsp;&nbsp;<img style="height:1em" alt="GitHub stars" src="https://img.shields.io/github/stars/lafmdp/Awesome-Papers-Autonomous-Agent?style=social" />
+    <br />
+    A collection of recent papers on building autonomous agent. Two topics included: RL-based / LLM-based agents.
+    </li>
+</ul>
+
 
