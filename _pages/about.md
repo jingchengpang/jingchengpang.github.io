@@ -47,7 +47,7 @@ Free free to contact/follow me if you are interested in my work.
 6. Peng-Yuan Wang, **Jing-Cheng Pang**, Chen-Yang Wang, Xu-Hui Liu, Tian-Shuo Liu, Si-Hang Yang, Hong Qian and Yang Yu. InCLET: In-context Learning from Language Models can Improve Embodied Instruction-following. In: *AAMAS* (Oral), 2025. [[paper](https://openreview.net/forum?id=qaI22j5mwJ)]
 
 
-[Full publication list](/publications/)
+[[Full publication list](/publications/)]
 
 
 ## Projects
