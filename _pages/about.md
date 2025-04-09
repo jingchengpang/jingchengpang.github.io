@@ -27,9 +27,10 @@ Particularly, my study includes:
 Free free to contact/follow me if you are interested in my work. 
 
 ## Recent News
+- 2025.03: Invited talk at HUAWEI Jiaxian Community (稼先社区). Topic: Exploration on Intelligent Agent System based on RL and LLMs [[slides](/files/slides/jiaxian_slides.pdf)].
 - 2025.01: [ReViWo](https://openreview.net/forum?id=vJwjWyt4Ed) for robotics manipulation under viewpoint disturbance, is accepted by ICLR 2025.
 - 2025.01: Invited talk at HUAWEI NAIE Group. Topic: RL-driven LLM Optimization and Recent Progress [[slides](/files/slides/RL_driven_LLM.pdf)].
-- 2024.12: InCLET is accepted by AAMAS 2025 as a full paper. We will give an oral presentation at Detriot!
+- 2024.12: InCLET is accepted by AAMAS 2025 as a full paper. ~~We will give an oral presentation at Detriot~~ (It's a pity that we can not get the visa)!
 - 2024.09: Our work, [KALM](https://openreview.net/forum?id=tb1MlJCY5g), is accepted by NeurIPS 2024! 
 - 2024.07: I start my visiting to Prof. [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/)'s team at [RIKEN-AIP](https://www.riken.jp/en/research/labs/aip/), Tokyo, Japan, doing RL research
 - 2024.01: [RLC](https://openreview.net/forum?id=38E4yUbrgr) for LLM self-improvement is accepted by ICLR 2024
@@ -40,12 +41,12 @@ Free free to contact/follow me if you are interested in my work.
 ## Selected Publications
 
 1. **Jing-Cheng Pang**, Nan Tang, Kaiyuan Li, Yuting Tang, Xin-Qiang Cai, Zhen-Yu Zhang, Gang Niu, Masashi Sugiyama and Yang Yu. Learning View-invariant World Models for Visual Robotic Manipulation. In: *ICLR*, 2025. [[paper](https://openreview.net/forum?id=vJwjWyt4Ed)]
-2. **Jing-Cheng Pang**, Si-Hang Yang, Kaiyuan Li, Jiaji Zhang, Xiong-Hui Chen, Nan Tang and Yang Yu. KALM: Knowledgeable Agents by Offline Reinforcement Learning from Large Language Model Rollouts. In: *NeurIPS*, 2024. [[paper](https://openreview.net/forum?id=tb1MlJCY5g)]
-3. **Jing-Cheng Pang**, Peng-Yuan Wang, Kaiyuan Li, Xiong-Hui Chen, Jiacheng Xu, Zongzhang Zhang and Yang Yu. Language Model Self-improvement by Reinforcement Learning Contemplation. In: *ICLR*, 2024. [[paper](https://openreview.net/forum?id=38E4yUbrgr)]
-4. **Jing-Cheng Pang**, Xinyu Yang, Si-Hang Yang, Xiong-Hui Chen and Yang Yu. Natural Language Instruction-following with Task-related Language Development and Translation. In: *NeurIPS*, 2023. [[paper](https://openreview.net/forum?id=bx0SDRVDzF)]
-5. **Jing-Cheng Pang**, Tian Xu, Shengyi Jiang, Yu-Ren Liu and Yang Yu. Reinforcement Learning With Sparse-Executing Actions via Sparsity Regularization. *TNNLS*, to appear. [[paper](https://arxiv.org/pdf/2105.08666)]
-6. Peng-Yuan Wang, **Jing-Cheng Pang**, Chen-Yang Wang, Xu-Hui Liu, Tian-Shuo Liu, Si-Hang Yang, Hong Qian and Yang Yu. InCLET: In-context Learning from Language Models can Improve Embodied Instruction-following. In: *AAMAS* (Oral), 2025. [[paper](https://openreview.net/forum?id=qaI22j5mwJ)]
-
+2. Peng-Yuan Wang, **Jing-Cheng Pang**, Chen-Yang Wang, Xu-Hui Liu, Tian-Shuo Liu, Si-Hang Yang, Hong Qian and Yang Yu. InCLET: In-context Learning from Language Models can Improve Embodied Instruction-following. In: *AAMAS* (Oral), 2025. [[paper](https://openreview.net/forum?id=qaI22j5mwJ)]
+3. **Jing-Cheng Pang**, Si-Hang Yang, Kaiyuan Li, Jiaji Zhang, Xiong-Hui Chen, Nan Tang and Yang Yu. KALM: Knowledgeable Agents by Offline Reinforcement Learning from Large Language Model Rollouts. In: *NeurIPS*, 2024. [[paper](https://openreview.net/forum?id=tb1MlJCY5g)]
+4. **Jing-Cheng Pang**, Peng-Yuan Wang, Kaiyuan Li, Xiong-Hui Chen, Jiacheng Xu, Zongzhang Zhang and Yang Yu. Language Model Self-improvement by Reinforcement Learning Contemplation. In: *ICLR*, 2024. [[paper](https://openreview.net/forum?id=38E4yUbrgr)]
+5. **Jing-Cheng Pang**, Xinyu Yang, Si-Hang Yang, Xiong-Hui Chen and Yang Yu. Natural Language Instruction-following with Task-related Language Development and Translation. In: *NeurIPS*, 2023. [[paper](https://openreview.net/forum?id=bx0SDRVDzF)]
+6. **Jing-Cheng Pang**, Tian Xu, Shengyi Jiang, Yu-Ren Liu and Yang Yu. Reinforcement Learning With Sparse-Executing Actions via Sparsity Regularization. *TNNLS*, to appear. [[paper](https://arxiv.org/pdf/2105.08666)]
+7. Shengyi Jiang, **Jing-Cheng Pang** and Yang Yu. Offline Imitation Learning with a Misspecified Simulator. In: *NeurIPS*, 2020. [[paper](https://proceedings.neurips.cc/paper_files/paper/2020/file/60cb558c40e4f18479664069d9642d5a-Paper.pdf)]
 
 [[Full publication list](/publications/)]
 
