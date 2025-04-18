@@ -14,15 +14,20 @@ redirect_from:
 </div>
 
 
-I am a fourth-year Ph.D. student at [Nanjing University](https://www.nju.edu.cn/), advised by Professor [Yang Yu](https://www.wolai.com/eyounx/dtR1MTyRXS5tP5Cex4KtdK). In June 2019, I obtained B.Sc. degree from [UESTC](https://www.uestc.edu.cn/). In September 2019, I joined the [LAMDA](https://www.lamda.nju.edu.cn) group led by Professor [Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/index.htm), as a Master's student, excused from the entrance examination. Since September 2021, I was fortunate to be accepted into the Successive Postgraduate and Doctoral program, starting my current Ph.D. studies.
-From July to October in 2024, I engaged as a visiting student with Prof. [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/)'s team at RIKEN-AIP, Tokyo, Japan.
+I am a fourth-year Ph.D. candidate at [Nanjing University](https://www.nju.edu.cn/), where I study reinforcement learning under the guidance of Professor [Yang Yu](https://www.wolai.com/eyounx/dtR1MTyRXS5tP5Cex4KtdK). 
+In June 2019, I obtained B.Sc. degree from [UESTC](https://www.uestc.edu.cn/), after which I joined the [LAMDA](https://www.lamda.nju.edu.cn) group led by Professor [Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/index.htm), as a Master's student. 
+In 2021, I transitioned to the Successive Postgraduate and Doctoral Program to pursue my current doctoral research.
+From July to October in 2024, I engaged as a visiting scholar with Prof. [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/)'s team at RIKEN-AIP, Tokyo, Japan.
 
-My research focuses on **_connecting human and intelligent agent (RL-based or LLM-based) through natural language instructions (effective instruction parsing)_**.
+### Research Overview
+
+My research focuses on **_connecting human and intelligent agent through natural language_**.
+By integrating reinforcement learning (RL) and large language models (LLMs), I aim to develop systems that not only interpret human intent but also act autonomously and learn iteratively in dynamic environments.
 Particularly, my study includes:
 
-- Reinforcement Learning: language-conditioned RL, optimization algorithm, imitation learning, applications;
-- Large Language Models: training, inference-time optimization, intelligent agent;
-- Embodied Robot: home-service robot, sim2real.
+- **Reinforcement Learning**: language-conditioned RL, optimization algorithm, imitation learning, generalist agent;
+- **Large Language Models**: model training, inference-time optimization, LLM-based agent;
+- **Embodied AI**: home-service robot, sim2real policy learning.
 
 Free free to contact/follow me if you are interested in my work. 
 

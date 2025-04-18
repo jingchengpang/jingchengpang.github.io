@@ -23,6 +23,7 @@ author_profile: true
 
 
 ## Talks
+- Invited talk at HUAWEI Jiaxian Community (稼先社区). Topic: Exploration on Intelligent Agent System based on RL and LLMs [[slides](/files/slides/jiaxian_slides.pdf)]
 - Invited talk at HUAWEI NAIE Group. Topic: RL-driven LLM Optimization and Recent Progress [[slides](/files/slides/RL_driven_LLM.pdf)]
 - Empowering Language Models with Active Inquiry for Deeper Understanding, at The 80th RLChina Paper Seminar [[slides](/files/slides/rlchina_lamai.pdf)]
 - Presentation about TALAR (NeurIPS 2023), at Reinforcement Learning Seminar [[slides](/files/slides/rl_seminar.pdf)]
