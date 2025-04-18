@@ -8,55 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-<a id="top"></a>  <!-- 可选：创建顶部锚点 -->
+<a id="top"></a> 
 
 <style>
-/* 按钮样式 */
-#myBtn {
-  display: none; /* 默认隐藏 */
-  position: fixed; /* 固定定位 */
-  bottom: 20px;
-  right: 30px;
-  z-index: 99;
-  border: none;
-  outline: none;
-  background-color: #555;
-  color: white;
-  cursor: pointer;
-  padding: 15px;
-  border-radius: 50%;
-  font-size: 18px;
-  transition: opacity 0.3s;
+html {
+  scroll-padding-top: 60px;
 }
-
-#myBtn:hover {
-  background-color: #333;
-  opacity: 0.8;
+:target::before {
+  content: "";
+  display: block;
+  height: 60px;
+  margin: -60px 0 0;
 }
 </style>
 
-<button onclick="topFunction()" id="myBtn" title="返回顶部">↑</button>
-
-<script>
-// 显示/隐藏按钮
-window.onscroll = function() {
-  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-    myBtn.style.display = "block";
-  } else {
-    myBtn.style.display = "none";
-  }
-};
-
-// 返回顶部函数
-function topFunction() {
-  window.scrollTo({
-    top: 0,
-    behavior: "smooth"  // 平滑滚动效果
-  });
-}
-</script>
-
-[[Research Overview](#research-overview) | [Recent News](#recent-news) | [Selected Publications](#selected-publications) | [Projects](#projects)] 
+[[Research Overview](#research-overview)] [[Recent News](#recent-news)] [[Selected Publications](#selected-publications)] [[Projects](#projects)]
 
 ---
 
