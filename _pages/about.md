@@ -8,19 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-<a id="top"></a> 
+<span id="top" style="position: absolute; top: 0; opacity: 0;"></span>
 
 <style>
-html {
-  scroll-padding-top: 60px;
-}
-:target::before {
-  content: "";
-  display: block;
-  height: 60px;
-  margin: -60px 0 0;
+#top {
+  top: -100px; /* 负值 = 导航栏高度 */
 }
 </style>
+
+
 
 [[Research Overview](#research-overview)] [[Recent News](#recent-news)] [[Selected Publications](#selected-publications)] [[Projects](#projects)]
 
