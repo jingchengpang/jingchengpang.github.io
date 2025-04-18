@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+<a id="top"></a>
+
+[[Research Overview](#research-overview) | [Recent News](#recent-news) | [Selected Publications](#selected-publications) | [Projects](#projects)] 
+
+---
 
 <div style="float: right; margin: 10px;">
   <a href="http://www.lamda.nju.edu.cn/"> <img src="../images/lamda_logo.jpg" alt="Your Image" style="max-width: 100px; max-height: 100px;" /> </a>
@@ -19,7 +24,7 @@ In June 2019, I obtained B.Sc. degree from [UESTC](https://www.uestc.edu.cn/), a
 In 2021, I transitioned to the Successive Postgraduate and Doctoral Program to pursue my current doctoral research.
 From July to October in 2024, I engaged as a visiting scholar with Prof. [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/)'s team at RIKEN-AIP, Tokyo, Japan.
 
-### Research Overview
+## Research Overview
 
 My research focuses on **_connecting human and intelligent agent through natural language_**.
 By integrating reinforcement learning (RL) and large language models (LLMs), I aim to develop systems that not only interpret human intent but also act autonomously and learn iteratively in dynamic environments.
@@ -30,6 +35,8 @@ Particularly, my study includes:
 - **Embodied AI**: home-service robot, sim2real policy learning.
 
 Free free to contact/follow me if you are interested in my work. 
+
+[[Back to top](#top)]
 
 ## Recent News
 - 2025.03: Invited talk at HUAWEI Jiaxian Community (稼先社区). Topic: Exploration on Intelligent Agent System based on RL and LLMs [[slides](/files/slides/jiaxian_slides.pdf)].
@@ -42,6 +49,7 @@ Free free to contact/follow me if you are interested in my work.
 - 2023.11: Awarded as [**Top Reviewer (8%)**](https://nips.cc/Conferences/2023/ProgramCommittee) of NeurIPS 2023
 - 2023.09: [TALAR](https://openreview.net/forum?id=bx0SDRVDzF&noteId=E1F2N1w0DO), for instruction-following agents, gets accepted by NeurIPS 2023
 
+[[Back to top](#top)]
 
 ## Selected Publications
 
@@ -55,6 +63,7 @@ Free free to contact/follow me if you are interested in my work.
 
 [[Full publication list](/publications/)]
 
+[[Back to top](#top)]
 
 ## Projects
 
@@ -65,4 +74,5 @@ Free free to contact/follow me if you are interested in my work.
     </li>
 </ul>
 
+[[Back to top](#top)]
 
