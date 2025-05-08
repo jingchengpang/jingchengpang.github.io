@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+<span id="top" style="position: absolute; top: 0; opacity: 0;"></span>
+
+<style>
+#top {
+  top: -100px;
+}
+</style>
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -41,3 +49,5 @@ author_profile: true
 {% endfor %}
 
 ------
+
+[[Back to top](#top)]

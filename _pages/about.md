@@ -12,10 +12,9 @@ redirect_from:
 
 <style>
 #top {
-  top: -100px; /* 负值 = 导航栏高度 */
+  top: -100px;
 }
 </style>
-
 
 
 [[Research Overview](#research-overview)] [[Recent News](#recent-news)] [[Selected Publications](#selected-publications)] [[Projects](#projects)]
