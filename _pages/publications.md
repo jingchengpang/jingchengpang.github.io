@@ -19,6 +19,24 @@ author_profile: true
 
 {% include base_path %}
 
+------
+
+<h1>Preprints</h1>
+{% for post in site.publications reversed %}
+  {% if post.pubtype == 'preprint' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+
+------
+
+<h1>Conference/Journal Papers</h1>
+{% for post in site.publications reversed %}
+  {% if post.pubtype == 'conference' or post.pubtype == 'journal' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
 
 ------
 
@@ -31,23 +49,5 @@ author_profile: true
 
 ------
 
-<h1>Conference/Journal Papers</h1>
-{% for post in site.publications reversed %}
-  {% if post.pubtype == 'conference' or post.pubtype == 'journal' %}
-      {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
-
-
-------
-
-<h1>Preprints</h1>
-{% for post in site.publications reversed %}
-  {% if post.pubtype == 'preprint' %}
-      {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
-
-------
 
 [[Back to top](#top)]
