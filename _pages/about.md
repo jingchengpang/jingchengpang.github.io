@@ -79,6 +79,10 @@ Free free to contact/follow me if you are interested in my work.
     <br />
     A collection of recent papers on building autonomous agent. Two topics included: RL-based / LLM-based agents.
     </li>
+    <li><strong><a href="https://github.com/LAMDA-RL/ImagineBench" target="_blank">ImagineBench</a></strong>&nbsp;&nbsp;<img style="height:1em" alt="GitHub stars" src="https://img.shields.io/github/stars/LAMDA-RL/ImagineBench?style=social" />
+        <br />
+        A benchmark for evaluating RL algorithms that train the policies using both real data and imaginary rollouts from LLMs. 
+    </li>
 </ul>
 
 [[Back to top](#top)]

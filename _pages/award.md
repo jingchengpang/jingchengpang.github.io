@@ -7,6 +7,7 @@ author_profile: true
 ---
 
 ## Postgraduate phase:
+- Outstanding Graduating Postgraduate Student of Nanjing University, 2025
 - Model Outstanding Graduate Student of Nanjing University (优秀研究生标兵), 2023
 - Merit Scholarship for Ph.D. student at Nanjing University x 2, {2021, 2023}
 - Excellent League Member of Nanjing University (优秀共青团员), 2021
