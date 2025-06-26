@@ -4,5 +4,5 @@ collection: publications
 permalink: /publication/2025-tmlr-lamsei
 date: 2025-03-15
 pubtype: 'journal'
-citation: "<b>Jing-Cheng Pang</b>*, Heng-Bo Fan*, Peng-Yuan Wang*, Jia-Hao Xiao*, Nan Tang, Si-Hang Yang, Chengxing Jia, Ming-Kun Xie, Xiang Chen, Sheng-Jun Huang and Yang Yu. <i> Interactive Large Language Models for Reliable Answering under Incomplete Context. </i> <b> Transactions on Machine Learning Research (TMLR) </b>, to appear."
+citation: "<b>Jing-Cheng Pang</b>, Heng-Bo Fan, Peng-Yuan Wang, Jia-Hao Xiao, Nan Tang, Si-Hang Yang, Chengxing Jia, Ming-Kun Xie, Xiang Chen, Sheng-Jun Huang and Yang Yu. <i> Interactive Large Language Models for Reliable Answering under Incomplete Context. </i> <b> Transactions on Machine Learning Research (TMLR) </b>, to appear."
 ---

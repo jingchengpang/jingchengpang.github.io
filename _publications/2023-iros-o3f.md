@@ -6,5 +6,5 @@ date: 2023-06-30
 pubtype: 'conference'
 paperurl: '/files/pdf/iros23_o3f.pdf'
 github: 'https://github.com/lafmdp/O3F'
-citation: "<b>Jing-Cheng Pang</b>*, Si-Hang Yang*, Xiong-Hui Chen, Xinyu Yang, Yang Yu, Mas Ma, Ziqi Guo, Howard Yang and Bill Huang. <i>Object-Oriented Option Framework for Robotics Manipulation in Clutter. </i> In: <b>IROS</b> (Oral), 2023."
+citation: "<b>Jing-Cheng Pang</b>, Si-Hang Yang, Xiong-Hui Chen, Xinyu Yang, Yang Yu, Mas Ma, Ziqi Guo, Howard Yang and Bill Huang. <i>Object-Oriented Option Framework for Robotics Manipulation in Clutter. </i> In: <b>IROS</b> (Oral), 2023."
 ---
