@@ -28,7 +28,7 @@ redirect_from:
 
 
 I am currently an AI Researcher at Huawei, focusing on reinforcement learning and large language models. I joined Huawei in July 2025 through the [TopMinds](https://career.huawei.com/reccampportal/portal5/topminds.html) Talent Program.
-Previously, I received my PhD from [Nanjing University](https://www.nju.edu.cn/) ([LAMDA Group](https://www.lamda.nju.edu.cn)), where I was fortune to be supervised by Prof. [Yang Yu](https://www.wolai.com/eyounx/dtR1MTyRXS5tP5Cex4KtdK) to conduct research on reinforcement learning. In 2024, I was a visiting scholar with Professor [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/)'s team at RIKEN-AIP in Tokyo, Japan (July - October).
+Previously, I received my PhD in June 2025 from [Nanjing University](https://www.nju.edu.cn/) ([LAMDA Group](https://www.lamda.nju.edu.cn)), where I was fortuned to be supervised by Prof. [Yang Yu](https://www.wolai.com/eyounx/dtR1MTyRXS5tP5Cex4KtdK) to conduct reinforcement learning research. In 2024, I was a visiting scholar with Professor [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/)'s team at RIKEN-AIP in Tokyo, Japan (July - October).
 Prior to that, I obtained my B.Sc. from the University of Electronic Science and Technology of China (UESTC) in June 2019.
 
 
