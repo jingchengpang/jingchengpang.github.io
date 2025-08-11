@@ -26,10 +26,13 @@ redirect_from:
 </div>
 
 
-I am a fourth-year Ph.D. candidate at [Nanjing University](https://www.nju.edu.cn/), where I study reinforcement learning under the guidance of Professor [Yang Yu](https://www.wolai.com/eyounx/dtR1MTyRXS5tP5Cex4KtdK). 
-In June 2019, I obtained B.Sc. degree from [UESTC](https://www.uestc.edu.cn/), after which I joined the [LAMDA](https://www.lamda.nju.edu.cn) group led by Professor [Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/index.htm), as a Master's student. 
-In 2021, I transitioned to the Successive Postgraduate and Doctoral Program to pursue my current doctoral research.
-From July to October in 2024, I engaged as a visiting scholar with Prof. [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/)'s team at RIKEN-AIP, Tokyo, Japan.
+
+I am currently an AI Researcher at Huawei, focusing on reinforcement learning and large language models. I joined Huawei in July 2025 through the [TopMinds](https://career.huawei.com/reccampportal/portal5/topminds.html) Talent Program.
+
+Previously, I received my PhD from [Nanjing University](https://www.nju.edu.cn/) ([LAMDA Group](https://www.lamda.nju.edu.cn)), where I was fortune to be supervised by Prof. [Yang Yu](https://www.wolai.com/eyounx/dtR1MTyRXS5tP5Cex4KtdK) to conduct research on reinforcement learning. In 2024, I was a visiting scholar with Professor [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/)'s team at RIKEN-AIP in Tokyo, Japan (July - October).
+
+Prior to that, I obtained my B.Sc. from the University of Electronic Science and Technology of China (UESTC) in June 2019.
+
 
 ## Research Overview
 
@@ -46,6 +49,7 @@ Free free to contact/follow me if you are interested in my work.
 [[Back to top](#top)]
 
 ## Recent News
+- 2025.07: I joined Huawei (AI Data Department) as an AI Researcher under the 'TopMinds' Talent Program.
 - 2025.03: Invited talk at HUAWEI Jiaxian Community (稼先社区). Topic: Exploration on Intelligent Agent System based on RL and LLMs [[slides](/files/slides/jiaxian_slides.pdf)].
 - 2025.01: [ReViWo](https://openreview.net/forum?id=vJwjWyt4Ed) for robotics manipulation under viewpoint disturbance, is accepted by ICLR 2025.
 - 2025.01: Invited talk at HUAWEI NAIE Group. Topic: RL-driven LLM Optimization and Recent Progress [[slides](/files/slides/RL_driven_LLM.pdf)].
