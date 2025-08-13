@@ -47,7 +47,7 @@ Free free to contact/follow me if you are interested in my work.
 [[Back to top](#top)]
 
 ## Recent News
-- 2025.07: I joined Huawei (AI Data Department) as an AI Researcher, focusing on building Damain Agent with RL and LLMs.
+- 2025.07: I join Huawei (AI Data Department) as an AI Researcher, focusing on building Damain Agent with RL and LLMs.
 - 2025.06: [ASRE](https://ieeexplore.ieee.org/document/10982133) (for RL optimization) and [LaMSeI](https://openreview.net/forum?id=nnlmcxYWlV) (for LLM application) are accepted by TNNLS and TMLR, respectively.
 - 2025.03: Invited talk at HUAWEI Jiaxian Community (稼先社区). Topic: Exploration on Intelligent Agent System based on RL and LLMs [[slides](/files/slides/jiaxian_slides.pdf)].
 - 2025.01: [ReViWo](https://openreview.net/forum?id=vJwjWyt4Ed) for robotics manipulation under viewpoint disturbance, is accepted by ICLR 2025.
