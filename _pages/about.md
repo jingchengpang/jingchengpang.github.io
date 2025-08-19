@@ -28,7 +28,7 @@ redirect_from:
 
 
 I am currently an AI Researcher at Huawei, focusing on _building Domain Agent through reinforcement learning and large language models_. I joined Huawei in July 2025 through the [TopMinds](https://career.huawei.com/reccampportal/portal5/topminds.html) Talent Program.
-Previously, I received my PhD in June 2025 from [Nanjing University](https://www.nju.edu.cn/) ([LAMDA Group](https://www.lamda.nju.edu.cn)), where I was fortuned to be supervised by Prof. [Yang Yu](https://www.wolai.com/eyounx/dtR1MTyRXS5tP5Cex4KtdK) to conduct reinforcement learning research. In 2024, I was a visiting scholar with Professor [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/)'s team at RIKEN-AIP in Tokyo, Japan (July - October).
+Previously, I received my PhD in June 2025 from [Nanjing University](https://www.nju.edu.cn/) ([LAMDA Group](https://www.lamda.nju.edu.cn)), where I was very fortunate to be supervised by Prof. [Yang Yu](https://www.wolai.com/eyounx/dtR1MTyRXS5tP5Cex4KtdK) to conduct reinforcement learning research. In 2024, I was a visiting scholar with Professor [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/)'s team at RIKEN-AIP in Tokyo, Japan (July - October).
 Prior to that, I obtained my BSc from the University of Electronic Science and Technology of China (UESTC) in June 2019.
 
 
@@ -47,7 +47,7 @@ Free free to contact/follow me if you are interested in my work.
 [[Back to top](#top)]
 
 ## Recent News
-- 2025.07: I join Huawei (AI Data Department) as an AI Researcher, focusing on building Damain Agent with RL and LLMs.
+- 2025.07: I join Huawei (AI Data Department) as an AI Researcher, focusing on building Domain Agent with RL and LLMs.
 - 2025.06: [ASRE](https://ieeexplore.ieee.org/document/10982133) (for RL optimization) and [LaMSeI](https://openreview.net/forum?id=nnlmcxYWlV) (for LLM application) are accepted by TNNLS and TMLR, respectively.
 - 2025.03: Invited talk at HUAWEI Jiaxian Community (稼先社区). Topic: Exploration on Intelligent Agent System based on RL and LLMs [[slides](/files/slides/jiaxian_slides.pdf)].
 - 2025.01: [ReViWo](https://openreview.net/forum?id=vJwjWyt4Ed) for robotics manipulation under viewpoint disturbance, is accepted by ICLR 2025.
@@ -71,7 +71,7 @@ Free free to contact/follow me if you are interested in my work.
 6. **Jing-Cheng Pang**, Tian Xu, Shengyi Jiang, Yu-Ren Liu and Yang Yu. Reinforcement Learning With Sparse-Executing Actions via Sparsity Regularization. *TNNLS*, to appear. [[paper](https://arxiv.org/pdf/2105.08666)]
 7. Shengyi Jiang, **Jing-Cheng Pang** and Yang Yu. Offline Imitation Learning with a Misspecified Simulator. In: *NeurIPS*, 2020. [[paper](https://proceedings.neurips.cc/paper_files/paper/2020/file/60cb558c40e4f18479664069d9642d5a-Paper.pdf)]
 
-[[Full publication list](/publications/)]
+[[Full publication list](/publications/)][[Google Scholar](https://scholar.google.com/citations?user=R3Y_WrkAAAAJ&hl=en)]
 
 [[Back to top](#top)]
 
