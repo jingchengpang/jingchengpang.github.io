@@ -21,13 +21,15 @@ redirect_from:
 
 ---
 
-<div style="float: right; margin: 10px;">
-  <a href="http://www.lamda.nju.edu.cn/"> <img src="../images/lamda_logo.jpg" alt="Your Image" style="max-width: 100px; max-height: 100px;" /> </a>
-</div>
+[//]: # (<div style="float: right; margin: 10px;">)
+
+[//]: # (  <a href="http://www.lamda.nju.edu.cn/"> <img src="../images/lamda_logo.jpg" alt="Your Image" style="max-width: 100px; max-height: 100px;" /> </a>)
+
+[//]: # (</div>)
 
 
 
-I am currently an AI Researcher at Huawei, focusing on _building Domain Agent through reinforcement learning and large language models_. I joined Huawei in July 2025 through the [TopMinds](https://career.huawei.com/reccampportal/portal5/topminds.html) Talent Program.
+I am currently an AI Researcher at Huawei, focusing on _data for building Domain Agent through reinforcement learning and large language models_. I joined Huawei in July 2025 through the [TopMinds](https://career.huawei.com/reccampportal/portal5/topminds.html) Talent Program.
 Previously, I received my PhD in June 2025 from [Nanjing University](https://www.nju.edu.cn/) ([LAMDA Group](https://www.lamda.nju.edu.cn)), where I was very fortunate to be supervised by Prof. [Yang Yu](https://www.wolai.com/eyounx/dtR1MTyRXS5tP5Cex4KtdK) to conduct reinforcement learning research. In 2024, I was a visiting scholar with Professor [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/)'s team at RIKEN-AIP in Tokyo, Japan (July - October).
 Prior to that, I obtained my BSc from the University of Electronic Science and Technology of China (UESTC) in June 2019.
 
@@ -41,6 +43,12 @@ Particularly, my study includes:
 - **Reinforcement Learning**: language-conditioned RL, optimization algorithm, imitation learning, generalist agent;
 - **Large Language Models**: model training, inference-time optimization, LLM-based agent;
 - **Embodied AI**: home-service robot, sim2real policy learning.
+
+Currently, I am exploring how to leverage RL and LLMs to build **_Domain Agent_** that can autonomously perform complex tasks in specific domains (e.g., Wireless, Datacom) by understanding and executing human instructions. Specifically:
+
+- **Data Research**: data construction and orchestration for building domain agent.
+- **Model Optimization**: effective mechanisms to optimize LLM using RL.
+
 
 Free free to contact/follow me if you are interested in my work. 
 
