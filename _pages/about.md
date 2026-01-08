@@ -28,27 +28,25 @@ redirect_from:
 [//]: # (</div>)
 
 
-
-I am currently an AI Researcher at Huawei, focusing on _data for building Domain Agent through reinforcement learning and large language models_. I joined Huawei in July 2025 through the [TopMinds](https://career.huawei.com/reccampportal/portal5/topminds.html) Talent Program.
+I am a Senior AI Researcher at Huawei, focusing on _data for building Domain Agent through reinforcement learning and large language models_. I joined Huawei in July 2025 through the [TopMinds](https://career.huawei.com/reccampportal/portal5/topminds.html) Talent Program.
 Previously, I received my PhD in June 2025 from [Nanjing University](https://www.nju.edu.cn/) ([LAMDA Group](https://www.lamda.nju.edu.cn)), where I was very fortunate to be supervised by Prof. [Yang Yu](https://www.wolai.com/eyounx/dtR1MTyRXS5tP5Cex4KtdK) to conduct reinforcement learning research. In 2024, I was a visiting scholar with Professor [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/)'s team at RIKEN-AIP in Tokyo, Japan (July - October).
 Prior to that, I obtained my BSc from the University of Electronic Science and Technology of China (UESTC) in June 2019.
 
 
 ## Research Overview
 
-During the PhD phase, my research focuses on **_connecting human and intelligent agent through natural language_**.
-By integrating reinforcement learning (RL) and large language models (LLMs), I aim to develop systems that not only interpret human intent but also act autonomously and learn iteratively in dynamic environments.
-Particularly, my study includes:
+Currently, I am exploring how to leverage RL and LLMs to build **_Domain Agent_** that can autonomously perform complex tasks in specific domains (e.g., Wireless/Data Communication) by understanding and executing human instructions. Specifically:
+
+- **Data Research**: data synthesis/selection/orchestration for building LLM-based domain agent.
+- **Model Optimization**: effective training procedure to optimize domain LLM with RL.
+
+During the PhD phase, my research focused on **_connecting human and intelligent agent through natural language_**.
+By integrating reinforcement learning (RL) and large language models (LLMs), I aimed to develop systems that not only interpret human intent but also act autonomously and learn iteratively in dynamic environments.
+Particularly:
 
 - **Reinforcement Learning**: language-conditioned RL, optimization algorithm, imitation learning, generalist agent;
 - **Large Language Models**: model training, inference-time optimization, LLM-based agent;
 - **Embodied AI**: home-service robot, sim2real policy learning.
-
-Currently, I am exploring how to leverage RL and LLMs to build **_Domain Agent_** that can autonomously perform complex tasks in specific domains (e.g., Wireless, Datacom) by understanding and executing human instructions. Specifically:
-
-- **Data Research**: data construction and orchestration for building domain agent.
-- **Model Optimization**: effective mechanisms to optimize LLM using RL.
-
 
 Free free to contact/follow me if you are interested in my work. 
 
@@ -71,10 +69,10 @@ Free free to contact/follow me if you are interested in my work.
 
 ## Selected Publications
 
-1. **Jing-Cheng Pang**, Nan Tang, Kaiyuan Li, Yuting Tang, Xin-Qiang Cai, Zhen-Yu Zhang, Gang Niu, Masashi Sugiyama and Yang Yu. Learning View-invariant World Models for Visual Robotic Manipulation. In: *ICLR*, 2025. [[paper](https://openreview.net/forum?id=vJwjWyt4Ed)]
-2. Peng-Yuan Wang, **Jing-Cheng Pang**, Chen-Yang Wang, Xu-Hui Liu, Tian-Shuo Liu, Si-Hang Yang, Hong Qian and Yang Yu. InCLET: In-context Learning from Language Models can Improve Embodied Instruction-following. In: *AAMAS* (Oral), 2025. [[paper](https://openreview.net/forum?id=qaI22j5mwJ)]
-3. **Jing-Cheng Pang**, Si-Hang Yang, Kaiyuan Li, Jiaji Zhang, Xiong-Hui Chen, Nan Tang and Yang Yu. KALM: Knowledgeable Agents by Offline Reinforcement Learning from Large Language Model Rollouts. In: *NeurIPS*, 2024. [[paper](https://openreview.net/forum?id=tb1MlJCY5g)]
-4. **Jing-Cheng Pang**, Peng-Yuan Wang, Kaiyuan Li, Xiong-Hui Chen, Jiacheng Xu, Zongzhang Zhang and Yang Yu. Language Model Self-improvement by Reinforcement Learning Contemplation. In: *ICLR*, 2024. [[paper](https://openreview.net/forum?id=38E4yUbrgr)]
+1. **Jing-Cheng Pang**, Peng-Yuan Wang, Kaiyuan Li, Xiong-Hui Chen, Jiacheng Xu, Zongzhang Zhang and Yang Yu. Language Model Self-improvement by Reinforcement Learning Contemplation. In: *ICLR*, 2024. [[paper](https://openreview.net/forum?id=38E4yUbrgr)]
+2. **Jing-Cheng Pang**, Nan Tang, Kaiyuan Li, Yuting Tang, Xin-Qiang Cai, Zhen-Yu Zhang, Gang Niu, Masashi Sugiyama and Yang Yu. Learning View-invariant World Models for Visual Robotic Manipulation. In: *ICLR*, 2025. [[paper](https://openreview.net/forum?id=vJwjWyt4Ed)]
+3. Peng-Yuan Wang, **Jing-Cheng Pang**, Chen-Yang Wang, Xu-Hui Liu, Tian-Shuo Liu, Si-Hang Yang, Hong Qian and Yang Yu. InCLET: In-context Learning from Language Models can Improve Embodied Instruction-following. In: *AAMAS* (Oral), 2025. [[paper](https://openreview.net/forum?id=qaI22j5mwJ)]
+4. **Jing-Cheng Pang**, Si-Hang Yang, Kaiyuan Li, Jiaji Zhang, Xiong-Hui Chen, Nan Tang and Yang Yu. KALM: Knowledgeable Agents by Offline Reinforcement Learning from Large Language Model Rollouts. In: *NeurIPS*, 2024. [[paper](https://openreview.net/forum?id=tb1MlJCY5g)]
 5. **Jing-Cheng Pang**, Xinyu Yang, Si-Hang Yang, Xiong-Hui Chen and Yang Yu. Natural Language Instruction-following with Task-related Language Development and Translation. In: *NeurIPS*, 2023. [[paper](https://openreview.net/forum?id=bx0SDRVDzF)]
 6. **Jing-Cheng Pang**, Tian Xu, Shengyi Jiang, Yu-Ren Liu and Yang Yu. Reinforcement Learning With Sparse-Executing Actions via Sparsity Regularization. *TNNLS*, to appear. [[paper](https://arxiv.org/pdf/2105.08666)]
 7. Shengyi Jiang, **Jing-Cheng Pang** and Yang Yu. Offline Imitation Learning with a Misspecified Simulator. In: *NeurIPS*, 2020. [[paper](https://proceedings.neurips.cc/paper_files/paper/2020/file/60cb558c40e4f18479664069d9642d5a-Paper.pdf)]

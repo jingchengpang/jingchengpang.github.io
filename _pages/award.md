@@ -6,6 +6,7 @@ author_profile: true
 
 ---
 
+- Future Star Award of Huawei, 2025
 - Huawei TopMinds Program (华为天才少年计划), 2025
 - Outstanding Graduating Postgraduate Student of Nanjing University, 2025
 - Model Outstanding Graduate Student of Nanjing University (优秀研究生标兵), 2023
@@ -17,7 +18,5 @@ author_profile: true
 - Scholarship of Nanjing AI Industry Rejuvenation Plan (supported by Nanjing EDTZ), 2019
 - 1st prize of Academic Scholarship of Nanjing University x 5, {2019, 2020, 2021, 2022, 2023}
 - Outstanding Graduates Award of UESTC, 2019
-- People's Scholarship of UESTC, 2018
-- People's Scholarship of UESTC, 2017
 - 1st prize of National College Students Information Security Competition, 2017
-- People's Scholarship of UESTC, 2016
+- People's Scholarship of UESTC x 3, {2016, 2017, 2018}
