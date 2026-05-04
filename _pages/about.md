@@ -68,14 +68,13 @@ Free free to contact/follow me if you are interested in my work.
 [[Back to top](#top)]
 
 ## Selected Publications
-
-1. **Jing-Cheng Pang**, Peng-Yuan Wang, Kaiyuan Li, Xiong-Hui Chen, Jiacheng Xu, Zongzhang Zhang and Yang Yu. Language Model Self-improvement by Reinforcement Learning Contemplation. In: *ICLR*, 2024. [[paper](https://openreview.net/forum?id=38E4yUbrgr)]
-2. **Jing-Cheng Pang**, Nan Tang, Kaiyuan Li, Yuting Tang, Xin-Qiang Cai, Zhen-Yu Zhang, Gang Niu, Masashi Sugiyama and Yang Yu. Learning View-invariant World Models for Visual Robotic Manipulation. In: *ICLR*, 2025. [[paper](https://openreview.net/forum?id=vJwjWyt4Ed)]
-3. Peng-Yuan Wang, **Jing-Cheng Pang**, Chen-Yang Wang, Xu-Hui Liu, Tian-Shuo Liu, Si-Hang Yang, Hong Qian and Yang Yu. InCLET: In-context Learning from Language Models can Improve Embodied Instruction-following. In: *AAMAS* (Oral), 2025. [[paper](https://openreview.net/forum?id=qaI22j5mwJ)]
-4. **Jing-Cheng Pang**, Si-Hang Yang, Kaiyuan Li, Jiaji Zhang, Xiong-Hui Chen, Nan Tang and Yang Yu. KALM: Knowledgeable Agents by Offline Reinforcement Learning from Large Language Model Rollouts. In: *NeurIPS*, 2024. [[paper](https://openreview.net/forum?id=tb1MlJCY5g)]
-5. **Jing-Cheng Pang**, Xinyu Yang, Si-Hang Yang, Xiong-Hui Chen and Yang Yu. Natural Language Instruction-following with Task-related Language Development and Translation. In: *NeurIPS*, 2023. [[paper](https://openreview.net/forum?id=bx0SDRVDzF)]
-6. **Jing-Cheng Pang**, Tian Xu, Shengyi Jiang, Yu-Ren Liu and Yang Yu. Reinforcement Learning With Sparse-Executing Actions via Sparsity Regularization. *TNNLS*, to appear. [[paper](https://arxiv.org/pdf/2105.08666)]
-7. Shengyi Jiang, **Jing-Cheng Pang** and Yang Yu. Offline Imitation Learning with a Misspecified Simulator. In: *NeurIPS*, 2020. [[paper](https://proceedings.neurips.cc/paper_files/paper/2020/file/60cb558c40e4f18479664069d9642d5a-Paper.pdf)]
+1. **Jing-Cheng Pang**, Liu Sun, Chang Zhou, Xian Tang, Haichuan Ma, Kun Jiang, Jianlong Wang, Kai Zhang, Sijie Wu, Haoran Cai, Chenwei Wu, Xubin Li and Xin Chen. EDCO: Dynamic Curriculum Orchestration for Domain-specific Large Language Model Fine-tuning. *ICML* 2026. [[Paper](https://arxiv.org/abs/2601.03725)] 
+2. **Jing-Cheng Pang**, Peng-Yuan Wang, Kaiyuan Li, Xiong-Hui Chen, Jiacheng Xu, Zongzhang Zhang and Yang Yu. Language Model Self-improvement by Reinforcement Learning Contemplation. *ICLR* 2024. [[paper](https://openreview.net/forum?id=38E4yUbrgr)]
+3. **Jing-Cheng Pang**, Nan Tang, Kaiyuan Li, Yuting Tang, Xin-Qiang Cai, Zhen-Yu Zhang, Gang Niu, Masashi Sugiyama and Yang Yu. Learning View-invariant World Models for Visual Robotic Manipulation. *ICLR* 2025. [[paper](https://openreview.net/forum?id=vJwjWyt4Ed)]
+4. Peng-Yuan Wang, *Jing-Cheng Pang*, Chen-Yang Wang, Xu-Hui Liu, Tian-Shuo Liu, Si-Hang Yang, Hong Qian and Yang Yu. InCLET: In-context Learning from Language Models can Improve Embodied Instruction-following. *AAMAS* (Oral) 2025. [[Paper](https://openreview.net/forum?id=qaI22j5mwJ)]
+5. **Jing-Cheng Pang**, Si-Hang Yang, Kaiyuan Li, Jiaji Zhang, Xiong-Hui Chen, Nan Tang and Yang Yu. KALM: Knowledgeable Agents by Offline Reinforcement Learning from Large Language Model Rollouts. *NeurIPS* 2024. [[paper](https://openreview.net/forum?id=tb1MlJCY5g)]
+6. **Jing-Cheng Pang**, Xinyu Yang, Si-Hang Yang, Xiong-Hui Chen and Yang Yu. Natural Language Instruction-following with Task-related Language Development and Translation. *NeurIPS* 2023. [[paper](https://openreview.net/forum?id=bx0SDRVDzF)]
+7. **Jing-Cheng Pang**, Tian Xu, Shengyi Jiang, Yu-Ren Liu and Yang Yu. Reinforcement Learning With Sparse-Executing Actions via Sparsity Regularization. *TNNLS*. [[paper](https://arxiv.org/pdf/2105.08666)]
 
 [[Full publication list](/publications/)][[Google Scholar](https://scholar.google.com/citations?user=R3Y_WrkAAAAJ&hl=en)]
 
