@@ -29,13 +29,13 @@ redirect_from:
 
 
 I am a Senior AI Researcher at Huawei, focusing on _data for building Domain Agent through reinforcement learning and large language models_. I joined Huawei in July 2025 through the [TopMinds](https://career.huawei.com/reccampportal/portal5/topminds.html) Talent Program.
-Previously, I received my PhD in June 2025 from [Nanjing University](https://www.nju.edu.cn/) ([LAMDA Group](https://www.lamda.nju.edu.cn)), where I was very fortunate to be supervised by Prof. [Yang Yu](https://www.wolai.com/eyounx/dtR1MTyRXS5tP5Cex4KtdK) to conduct reinforcement learning research. In 2024, I was a visiting scholar with Professor [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/)'s team at RIKEN-AIP in Tokyo, Japan (July - October).
-Prior to that, I obtained my BSc from the University of Electronic Science and Technology of China (UESTC) in June 2019.
+Previously, I received my PhD from [Nanjing University](https://www.nju.edu.cn/) ([LAMDA Group](https://www.lamda.nju.edu.cn)), where I was very fortunate to be supervised by Prof. [Yang Yu](https://www.wolai.com/eyounx/dtR1MTyRXS5tP5Cex4KtdK) to conduct reinforcement learning research. In 2024, I was a visiting scholar with Professor [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/)'s team at RIKEN-AIP in Tokyo, Japan (July - October).
+Prior to that, I obtained my BSc from UESTC.
 
 
 ## Research Overview
 
-Currently, I am exploring how to leverage RL and LLMs to build **_Domain Agent_** that can autonomously perform complex tasks in specific domains (e.g., Wireless/Data Communication) by understanding and executing human instructions. Specifically:
+Currently, I am exploring how to leverage RL and LLMs to build **_Domain Agent_** that can autonomously perform complex tasks in specific domains by understanding and executing human instructions. Specifically:
 
 - **Data Research**: data synthesis/selection/orchestration for building LLM-based domain agent.
 - **Model Optimization**: effective training procedure to optimize domain LLM with RL.
