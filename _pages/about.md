@@ -38,7 +38,7 @@ Prior to that, I obtained my BSc from UESTC.
 Currently, I am exploring how to leverage RL and LLMs to build **_Domain Agent_** that can autonomously perform complex tasks in specific domains by understanding and executing human instructions. Specifically:
 
 - **Data Research**: data synthesis/selection/orchestration for building LLM-based domain agent.
-- **Model Optimization**: effective training procedure to optimize domain LLM with RL.
+- **LLM Post-training**: effective training procedure to optimize domain LLM with RL.
 
 During the PhD phase, my research focused on **_connecting human and intelligent agent through natural language_**.
 By integrating reinforcement learning (RL) and large language models (LLMs), I aimed to develop systems that not only interpret human intent but also act autonomously and learn iteratively in dynamic environments.

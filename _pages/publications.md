@@ -31,18 +31,18 @@ author_profile: true
 
 ------
 
-<h1>Conference/Journal Papers</h1>
+<h1>Conference Papers</h1>
 {% for post in site.publications reversed %}
-  {% if post.pubtype == 'conference' or post.pubtype == 'journal' %}
+  {% if post.pubtype == 'conference'%}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
 ------
 
-<h1>Manuscripts</h1>
+<h1>Journal Papers</h1>
 {% for post in site.publications reversed %}
-  {% if post.pubtype == 'manuscript' %}
+  {% if post.pubtype == 'journal' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
