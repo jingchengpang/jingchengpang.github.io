@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications (* indicates corresponding author)"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -18,6 +18,8 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+
+(* indicates corresponding author)
 
 ------
 
