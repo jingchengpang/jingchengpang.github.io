@@ -28,17 +28,18 @@ redirect_from:
 [//]: # (</div>)
 
 
-I am a Senior AI Researcher at Huawei, focusing on _data for building Domain Agent through reinforcement learning and large language models_. I joined Huawei in July 2025 through the [TopMinds](https://career.huawei.com/reccampportal/portal5/topminds.html) Talent Program.
-Previously, I received my PhD from [Nanjing University](https://www.nju.edu.cn/) ([LAMDA Group](https://www.lamda.nju.edu.cn)), where I was very fortunate to be supervised by Prof. [Yang Yu](https://www.wolai.com/eyounx/dtR1MTyRXS5tP5Cex4KtdK) to conduct reinforcement learning research. In 2024, I was a visiting scholar with Professor [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/)'s team at RIKEN-AIP in Tokyo, Japan (July - October).
-Prior to that, I obtained my BSc from UESTC.
+I am interested in buiding _smarter and more considerate AI assistant on wearable devices through reinforcement learning_.
+Previously, I worked at Huawei through the [TopMinds](https://career.huawei.com/reccampportal/portal5/topminds.html) Talent Program, and received my PhD from [Nanjing University](https://www.nju.edu.cn/) ([LAMDA Group](https://www.lamda.nju.edu.cn)), where I was very fortunate to be supervised by Prof. [Yang Yu](https://www.wolai.com/eyounx/dtR1MTyRXS5tP5Cex4KtdK) to conduct reinforcement learning research.
+Prior to that, I obtained B.E. from [UESTC](https://www.uestc.edu.cn).
 
 
 ## Research Overview
 
-Currently, I am exploring how to leverage RL and LLMs to build **_Domain Agent_** that can autonomously perform complex tasks in specific domains by understanding and executing human instructions. Specifically:
+Currently, I am exploring how to leverage RL and LLMs to build **_Personal Assistant_** that can proactively assist users, remember things and follow instructions. Specifically, my research includes:
 
-- **Data Research**: data synthesis/selection/orchestration for building LLM-based domain agent.
-- **LLM Post-training**: effective training procedure to optimize domain LLM with RL.
+- **Proactive AI**: data synthesis/selection/orchestration for building LLM-based domain agent.
+- **Post-training**: effective training procedure to optimize domain LLM with RL.
+- **Instruction following**: follow users' query and execute the tasks on wearable devices.
 
 During the PhD phase, my research focused on **_connecting human and intelligent agent through natural language_**.
 By integrating reinforcement learning (RL) and large language models (LLMs), I aimed to develop systems that not only interpret human intent but also act autonomously and learn iteratively in dynamic environments.
